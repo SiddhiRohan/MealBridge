@@ -3,7 +3,6 @@
 **DevFestDC 2025 Hackathon Project**  
 Team: Siddhi Rohan, Rishika Thakre, Mukul Gupta, Anisha Katiyar, Meghna Gupta  
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-Link-blue)](https://github.com/SiddhiRohan/MealBridge/tree/main)
 
 ---
 
